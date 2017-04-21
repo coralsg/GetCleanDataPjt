@@ -74,5 +74,5 @@ group_by(Subject,ActivityDesc) %>%
 summarise_all(mean)
 
 ## 4) Export combineddata_summary 
-write.table(combineddata_summary, file = "tidydata.txt")
+write.table(combineddata_summary, file = "tidydata.txt", row.name=FALSE)
 
