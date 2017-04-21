@@ -13,7 +13,7 @@ The following are the important files in this github repository:
 1) run_analysis.R : script to execute objectives from the project
 2) README.md : to explain the files in this repository
 3) tidydata.txt : a tidy data set with the average of each variable for each activity and each subject
-3) Codebook.md : to explain the variable names in tidydata.txt
+3) tidydatacodebook.txt : to explain the variable names in tidydata.txt
 
 The data for the project can be found here:
 
