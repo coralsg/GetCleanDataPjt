@@ -1,0 +1,23 @@
+Subject	An identifier of the subject who carried out the experiment.
+ActivityDesc	One of six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) subject performed while wearing a motion recording device
+tBodyAcc-mean()-XYZ	Average of the means of estimated body acceleration for each XYZ dimension
+tBodyAcc-std()-XYZ	Average of the standard deviations of estimated body acceleration for each XYZ dimension
+tGravityAcc-mean()-XYX	Average of the means of estimated gravitational acceleration for each XYZ dimension
+tGravityAcc-std()-XYX	Average of the standard deviations of estimated gravitational acceleration for each XYZ dimension
+tBodyAccJerk-mean()-XYZ	Average of the means of jerk signals from body acceleration for each XYZ dimension
+tBodyAccJerk-std()-XYZ	Average of the standard deviations of jerk signals from body acceleration for each XYZ dimension
+tBodyGyro-mean()-XYZ	Average of the means of Triaxial Angular velocity for each XYZ dimension
+tBodyGyro-std()-XYZ	Average of the standard deviations of Triaxial Angular velocity for each XYZ dimension
+tBodyGyroJerk-mean()-XYZ	Average of the means of jerk signals of Triaxial Angular velocity for each XYZ dimension
+tBodyGyroJerk-std()-XYZ	Average of the standard deviations of jerk signals of Triaxial Angular velocity for each XYZ dimension
+tBodyAccMag-mean()	Average of means of magnitude of body acceleration
+tBodyAccMag-std()	Average of standard deviations of magnitude of body acceleration
+tGravityAccMag-mean()	Average of means of magnitude of gravitational acceleration
+tGravityAccMag-std()	Average of standard deviations of magnitude of gravitational acceleration
+tBodyAccJerkMag-mean()	Average of means of magnitude of jerk signals from body acceleration
+tBodyAccJerkMag-std()	Average of standard deviations of magnitude of jerk signals from body acceleration
+tBodyGyroMag-mean()	Average of means of magnitude of Triaxial Angular velocity
+tBodyGyroMag-std()	Average of standard deviations of magnitude of Triaxial Angular velocity
+tBodyGyroJerkMag-mean() Average of means of magnitude of jerk signals from Triaxial Angular velocity
+tBodyGyroJerkMag-std() Average of standard deviations of magnitude of jerk signals from Triaxial Angular velocity
+f*	Average of Fast Fourier Transform of the respective statistic
