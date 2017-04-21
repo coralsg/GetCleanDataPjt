@@ -24,3 +24,4 @@ A full description is available at the site where the data was obtained:
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
+Special thanks to David Hood's blog in clarifying alot of questions arising from this project https://thoughtfulbloke.wordpress.com/2015/09/09/getting-and-cleaning-the-assignment/
